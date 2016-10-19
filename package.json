@@ -1,0 +1,22 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "guess a word by entering letters with in 10 guesses to win the game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamarthiraji/week11-Hangman.git"
+  },
+  "author": "Raji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamarthiraji/week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/chamarthiraji/week11-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2"
+  }
+}
